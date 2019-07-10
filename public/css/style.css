@@ -1,0 +1,37 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    margin-bottom: 70px;
+}
+
+.table-bottom{
+    height: 40px;
+    padding: 10px 0;
+    border: 1 px solid #000000;
+    
+}
+
+
+#footer{
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    background-color: gray;
+    font-size: 0.9em;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bottom-nav{
+    margin-top: 40px;
+}
+
+.table-nav {
+    border-top: 1px solid #000;
+    padding-top: 15px;
+}
+
